@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Variables de entorno secretas
+.env
+
+# Archivos de caché y compilados
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Datos locales (Historial)
+data/historial_prompts.csv
+data/prompts_optimizados_batch.csv
+
+# Archivos temporales de pruebas
+test_batch.csv
+output.txt
