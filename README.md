@@ -1,4 +1,5 @@
-# 🚀 Optimizador de Prompts Inteligente
+# 🚀 Optimizador de Prompts Inteligente 
+(Proyecto grupal de alumnos de Samsung Innovation Campus) 
 
 ¡Bienvenido al **Optimizador de Prompts Inteligente**! Esta es una aplicación impulsada por Inteligencia Artificial (Llama-3 de Meta) y diseñada para transformar instrucciones básicas en prompts altamente profesionales, estructurados y listos para producción.
 
